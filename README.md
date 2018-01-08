@@ -1,6 +1,6 @@
-CEG 4136 COMPUTER ARCHITECTURE III 
+Project Heart Beat
 =========
 at UOttawa
 
-Course Website 
-Created using class template ac297
+Project Website 
+Created using template ac297
