@@ -1,2 +1,6 @@
-# projectheartbeat.github.io
-Site for visualizing data and gather information of various patients
+CEG 4136 COMPUTER ARCHITECTURE III 
+=========
+at UOttawa
+
+Course Website 
+Created using class template ac297
